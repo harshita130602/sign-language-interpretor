@@ -1,2 +1,2 @@
-# sign-language-interpretor
-British Sign Language Interpretor
+# SignLanguageDetectionUsingML
+SignLanguageDetectionUsingML
