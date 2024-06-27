@@ -14,15 +14,19 @@ cd sign-language-interpretor
 pip3 install tensorflow
 pip3 install mediapipe
 ```
-4. Run the following file to process the data:-
+4. Run the following file:-
+```
+python3 collectdata.py
+```
+6. Run the following file to process the data:-
 ```
 python3 data.py
 ```
-5. Run the following command to create a model:-
+6. Run the following command to create a model:-
 ```
 python3 trainmodel.py
 ```
-6. Run the following command to run the application:-
+7. Run the following command to run the application:-
 ```
 python3 app.py
 ```
